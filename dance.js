@@ -487,4 +487,4 @@ window.addEventListener("mousedown", e => pointer.down(e), false);
 window.addEventListener("touchstart", e => pointer.down(e), false);
 window.addEventListener("mouseup", e => pointer.up(e), false);
 window.addEventListener("touchend", e => pointer.up(e), false);
-console.log("script loaded 2");
+console.log("script loaded 2 ");
