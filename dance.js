@@ -395,5 +395,6 @@
 			)
 		);
 	}
+	console.log("script loaded");
 	run();
 }
